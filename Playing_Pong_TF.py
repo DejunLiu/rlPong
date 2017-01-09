@@ -5,7 +5,7 @@ import tensorflow as tf
 from gym import wrappers
 
 import os
-print "Running this notebook from: ",os.getcwd()
+print "Running this from: ",os.getcwd()
 
 H = 200
 batch_size = 10
